@@ -5,12 +5,12 @@
 + 小车电池电量是否充足
 + 小车系统SD卡准备妥当
 
-# 2. 开机
-###（1）插入SD卡
+# 2. 开机 
+### （1）插入SD卡
 ![Ascbot Smartcar](./AscbotImg/ascbot-startup-001.png)
-###（2）插入电池，连接电池
+### （2）插入电池，连接电池
 ![Ascbot Smartcar](./AscbotImg/ascbot-startup-002.png)
-###（3）	按下小车电池上开机键静待至小车系统LED灯全部亮起
+### （3）	按下小车电池上开机键静待至小车系统LED灯全部亮起
 ![Ascbot Smartcar](./AscbotImg/ascbot-startup-003.png)
 ###（4）安卓手机连接小车WiFi（HUAWEI-**************）
 
